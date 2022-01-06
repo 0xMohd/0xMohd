@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Mohammad Ali Alawadi. I go by @0xMohd online
-- 👀 I’m interested in CTI, OSINT and Social Engineering
-- 🌱 I’m currently learning Java, Python and automation of OSINT tasks
+- 👋 Hi, I’m Mohammad Ali. I go by @0xMohd online
+- 👀 I’m experienced in Open Source Intelligence and Cyber Threat Intelligence. I hold several certifications in the field of cybersecurity.
 - 📫 How to reach me:
--  Email: 0xmohd@gmail.com
+-  Email: mohd@invincible.ae
 -  Twitter: @0xmohd
